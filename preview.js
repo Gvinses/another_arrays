@@ -1,21 +1,23 @@
-// const typeArray = require("./arrayClass")
-// const betterArrayMethods = require('./arrayMethods')
-//
+// think, that preview is in another directory (like it on "cd ..")
+
+// const typeArray = require('another_arrays/arrayClass')  // adding static typed array to project
+// const array_methods = require('another_arrays/arrayMethods') // adding arrayMethods to project
+
 // // type array
-//
-// let type_arr = new typeArray([1, 2, 3], 'number')
+
+// let type_arr = new typeArray([1, 2, 3], 'number')   // creating static typed array
 // type_arr.add_e(123)
 // type_arr.change_e(123, 124, true)
 // type_arr.delete_e(3, true)
 // console.log(type_arr.val_i(2))
-//
+
 // // methods
 //
 // let arr = [1, 2, 3, 4]
-// console.log(arr.Sum(4)) // 10
-// console.log(arr.Diff()) // -10
-// console.log(arr.Modify(2)) // 24
-// console.log(arr.Division()) //  0.041666666666666664
+// console.log(arr.Sum(4))      // 10
+// console.log(arr.Diff())      // -10
+// console.log(arr.Modify(2))   // 24
+// console.log(arr.Division())  //  0.041666666666666664
 //
 // let matrix = [[1, 2, [3, 4]], [5, 6], 7, [1, 2, 3]];
 // console.log(matrix.AllLength()) // 10
