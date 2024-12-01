@@ -1,0 +1,11 @@
+{
+  "name": "another_arrays",
+  "version": "1.1.1",
+  "main": "preview.js",
+  "scripts": {
+    "preview": "node preview.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
