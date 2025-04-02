@@ -5,8 +5,8 @@
 <h2>Install:</h2>
 <ol>
     <li>npm i another_arrays</li>
-    <li>const typeArray = require('another_arrays/arrayClass')</li>
-    <li>const array_methods = require('another_arrays/arrayMethods')</li>
+    <li>const typeArray = require('another_arrays/arrayClass.js')</li>
+    <li>const array_methods = require('another_arrays/arrayMethods.js')</li>
     <li><i>optional:</i> you can view file preview.js to see an examples</li>
 </ol>
 <hr>
